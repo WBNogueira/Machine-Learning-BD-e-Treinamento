@@ -42,7 +42,7 @@
 
 #### Agradecimentos:
 
-- **DIO*** com o curso teórico.
+- **DIO** com o curso teórico.
 
 - Instrutor do curso: **Diego Renan**
 
